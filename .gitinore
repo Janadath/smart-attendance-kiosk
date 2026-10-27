@@ -1,0 +1,6 @@
+.DS_Store
+__pycache__/
+*.pyc
+student_id_cards/
+*.pdf
+*.png
